@@ -1,2 +1,1 @@
-# javalabs
-JavaLabs
+# Лабораторные работы по языку Java
